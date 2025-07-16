@@ -26,8 +26,6 @@ author:
   name             : "Quynh H Nguyen Doan"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  employer         : "Red Brick University"
-  uri              : # URL
   email            : "ngdoan.quynh@gmail.com" 
 
   # Academic websites
@@ -45,12 +43,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ngdoan"
+  github           : "quynh-nguyendoan"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  linkedin         : # Username
+  linkedin         : "quynh-nguyen-684849145"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
