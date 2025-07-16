@@ -15,7 +15,7 @@ name                     : &name "Quynh Huong Nguyen Doan"
 description              : &description "personal description"
 url                      : "https://quynh-nguyendoan.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ngdoan/quynh-nguyendoan"
+repository               : "quynh-nguyendoan/quynh-nguyendoan.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Quynh H Nguyen Doan"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   employer         : "Red Brick University"
   uri              : # URL
